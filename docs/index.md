@@ -11,18 +11,18 @@ The following is a list of CDs that I currently have in my collection.
 
 ### Astrud Gilberto
 
-- "The Astrud Gilberto Album"
-- "Talkin' Verve: Astrud Gilberto"
+- The Astrud Gilberto Album
+- Talkin' Verve: Astrud Gilberto
 
 ### Astrud Gilberto & Stanley Turrentine
 
-- "Gilberto with Turrentine"
+- Gilberto with Turrentine
 
 ## B
 
 ### Boris Karloff
 
-- "How the Grinch Stole Christmas"
+- How the Grinch Stole Christmas
 
 ## C
 
@@ -40,7 +40,7 @@ The following is a list of CDs that I currently have in my collection.
 
 ### The Foreign Exchange
 
-- "Connected"
+- Connected
 
 ## G
 
@@ -54,57 +54,57 @@ The following is a list of CDs that I currently have in my collection.
 
 ### The Internet
 
-- "Ego Death"
+- Ego Death
 
 ## J
 
 ### Jimmy Haslip
 
-- "ARC"
+- ARC
 
 ## K
 
 ### Kid Cudi
 
-- "Man on the Moon: The End of Day"
+- Man on the Moon: The End of Day
 
 ## L
 
 ### Leon Ware
 
-- "Musical Massage"
+- Musical Massage
 
 ## M
 
 ### Mariah Carey
 
-- "Merry Christmas"
+- Merry Christmas
 
 ### Marvin Gaye
 
-- "What's Going On (Deluxe Edition)"
+- What's Going On (Deluxe Edition)
 
 ### Maxwell
 
-- "Now"
+- Now
 
 ### Miles Davis
 
-- "Agharta"
-- "Ascenseur pour ľéchafaud (Lift to the scaffold)"
-- "Kind of Blue"
-- "The Complete Live At The Plugged Nickel 1965"
+- Agharta
+- Ascenseur pour ľéchafaud (Lift to the scaffold)
+- Kind of Blue
+- The Complete Live At The Plugged Nickel 1965
 	- SACD
-	- Limited edition of 1,500 copies.
-- "Pangea"
-- "Vol. 1"
-- "Vol. 2"
+	- Limited edition of 1,500 copies
+- Pangea
+- Vol. 1
+- Vol. 2
 
 ## N
 
 ### Nicolay
 
-- "City Lights Vol. 2: Shibuya"
+- City Lights Vol. 2: Shibuya
 
 ## O
 
@@ -122,23 +122,23 @@ The following is a list of CDs that I currently have in my collection.
 
 ### Robert Glasper
 
-- "Black Radio"
+- Black Radio
 
 ## S
 
 ### Sadao Watanabe
 
-- "Live At The Junk"
+- Live At The Junk
 
 ### Syd
 
-- "Fin"
+- Fin
 
 ## T
 
 ### A Tribe Called Quest
 
-- "The Anthology"
+- The Anthology
 
 ## U
 
@@ -148,18 +148,18 @@ The following is a list of CDs that I currently have in my collection.
 
 ### Vanilla Ice
 
-- "To The Extreme"
+- To The Extreme
 
 ### Vincent Guaraldi Trio
 
-- "A Charlie Brown Christmas"
+- A Charlie Brown Christmas
 
 ## W
 
 ### Wynton Marsalis
 
-- "Crescent City Christmas Card"
-- "Marsalis Standard Time"
+- Crescent City Christmas Card
+- Marsalis Standard Time
 
 ## X
 
@@ -169,7 +169,7 @@ The following is a list of CDs that I currently have in my collection.
 
 ### Yusef Lateef
 
-- "Eastern Sounds"
+- Eastern Sounds
 
 ## Z
 
