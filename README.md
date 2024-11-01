@@ -1,2 +1,3 @@
-# cd-collection
- My collection of CDs
+# CD collection
+
+This repository contains a list of my CD collection.
