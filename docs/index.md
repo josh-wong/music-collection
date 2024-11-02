@@ -3,6 +3,7 @@ tags:
   - music
 date created: 2024-11-01
 last reviewed: 2024-11-01
+title: CD collection
 ---
 
 The following is a list of CDs that I currently have in my collection.
