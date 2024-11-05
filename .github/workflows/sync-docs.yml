@@ -24,9 +24,9 @@ jobs:
         with:
           source_file: "docs/"
           destination_repo: "josh-wong/josh-wong.github.io"
-          destination_folder: docs/cd-collection/
-          destination_branch_create: "cd-collection/update-docs"
+          destination_folder: docs/music-collection/
+          destination_branch_create: "music-collection/update-docs"
           user_name: "josh-wong"
           user_email: "joshuarwong@gmail.com"
-          commit_message: "AUTO: Sync cd-collection docs to personal site"
+          commit_message: "AUTO: Sync music-collection docs to personal site"
           use_rsync: rsync -avh
