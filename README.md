@@ -7,6 +7,8 @@ This repository contains a list of CDs and vinyl records that I've collected.
 The following is the template for adding details about an album:
 
 ```markdown
+### <ALBUM_NAME>
+
 - **Format:** 
 - **Country:** 
 - **Released:** 
